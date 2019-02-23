@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## How to be dumb
 
-You can use the [editor on GitHub](https://github.com/ooodlllars/testingrepositorys/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+You can poop your pants, not listen in school and get in big big trouble.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+You gotta freaking pee your pants. People will think you're weird so don't worry.
 
 ### Markdown
 
